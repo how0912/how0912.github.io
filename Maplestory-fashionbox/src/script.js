@@ -240,9 +240,6 @@ drawallBtn.addEventListener("click", () => {
             removeText();
         }
         applesText.innerHTML = apples;
-        applechipsText.innerHTML = appleChips;
-        blackchipsText.innerHTML = blackChips;
-        gourdText.innerHTML = gourd;
         frenzytotemText.innerHTML = frenzyTotem;
         countText.innerHTML = count;
         scrollBar();
