@@ -312,15 +312,7 @@ blackchipBtn.addEventListener("click", () => {
             case "巨大的恐怖":
                 blackchips5 += 1;
                 break;
-            case "指揮官力量耳環":
-                blackchips6 += 1;
-                break;
-            case "創世的胸章":
-                blackchips7 += 1;
-                break;
-            case "黑心":
-                blackchips8 += 1;
-                break;
+            
             case "受詛咒的魔導書選擇箱":
                 blackchips9 += 1;
                 break;
